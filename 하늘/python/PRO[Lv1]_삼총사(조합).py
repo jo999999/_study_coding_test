@@ -12,6 +12,10 @@ def solution(number):
     
     
  '''
+from itertools import product
+from itertools import permutations
+from itertools import combinations
+
  - 하나의 리스트에서 모든 순열/조합 찾기
  
 from itertools import permutations # 순열
