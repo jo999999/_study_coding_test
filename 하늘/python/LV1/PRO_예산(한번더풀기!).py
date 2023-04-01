@@ -1,3 +1,5 @@
+# 문제 링크 :  
+
 def solution(d, budget):
     if sum(d) <= budget:
         answer = len(d)
