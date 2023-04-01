@@ -1,6 +1,8 @@
+# 문제 링크 :  
+
 def solution(num):
- 
     cnt = 0
+  
     if num == 1:
         return 0
     else:
