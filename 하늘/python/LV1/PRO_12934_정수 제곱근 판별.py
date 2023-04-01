@@ -1,3 +1,5 @@
+# 문제 링크 :  
+
 import math # math.sqrt()이거 이용하면 됨!
 
 def solution(n):
