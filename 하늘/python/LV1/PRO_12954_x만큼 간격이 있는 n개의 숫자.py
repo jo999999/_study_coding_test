@@ -1,3 +1,5 @@
+# 문제 링크 :  
+
 def solution(x, n):
     answer = []
     answer.append(x)
