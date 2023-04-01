@@ -1,3 +1,5 @@
+# 문제 링크 :  
+
 def solution(left, right):
  
     num_lst = [i for i in range(left, right+1)]
