@@ -1,3 +1,5 @@
+# 문제 링크 ; 
+
 def solution(s):
     s = s.lower()
     p_lst = [i for i in s if i =='p']
