@@ -1,3 +1,5 @@
+# 문제 링크 :  
+
 def solution(t, p):
     answer = 0
     check_lst = []
