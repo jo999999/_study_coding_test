@@ -1,3 +1,5 @@
+# 문제 링크 :  
+
 from itertools import combinations # 조합
 
 def solution(number):
