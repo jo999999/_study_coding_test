@@ -1,9 +1,4 @@
-
-# 더 best 풀이!
-#def solution(n):
-#   ls = list(str(n)) ###
-#   ls.sort(reverse = True)
-#    return int("".join(ls)) ###
+# 문제 링크 ; 
 
 
 
@@ -16,3 +11,8 @@ def solution(n):
     answer = int(answer)
     return answer
 
+# 더 best 풀이!
+#def solution(n):
+#   ls = list(str(n)) ###
+#   ls.sort(reverse = True)
+#    return int("".join(ls)) ###
