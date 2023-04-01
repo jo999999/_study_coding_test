@@ -1,4 +1,4 @@
-# https://school.programmers.co.kr/learn/courses/30/lessons/159994
+# 문제 링크 :  https://school.programmers.co.kr/learn/courses/30/lessons/159994
 ## 예외를 잡아내는게 참,, 뭐가 문제일까ㅏㅏ
 ## 문장 길이를 먼저 확인하면 오류가 안난대 ㅠㅠ 하..ㅋㅋㅋ
 '''
