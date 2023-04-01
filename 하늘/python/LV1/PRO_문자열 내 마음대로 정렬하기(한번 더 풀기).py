@@ -1,3 +1,6 @@
+
+# 문제 링크 :  
+
 # list sorted() -- key : lambda x: x~ 
 # 아이디어 : 사전 정렬 먼저 -> 그후 특정 인덱스 기준 정렬
 def solution(strings, n):
