@@ -1,3 +1,5 @@
+# 문제 링크 ; 
+
 def solution(arr, divisor):
     answer = []
     for i in arr:
