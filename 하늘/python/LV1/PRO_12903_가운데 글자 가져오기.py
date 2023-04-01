@@ -1,3 +1,5 @@
+# 문제 링크 ; 
+
 def solution(s): 
     
     if len(s) % 2 == 1: # 홀수길이
