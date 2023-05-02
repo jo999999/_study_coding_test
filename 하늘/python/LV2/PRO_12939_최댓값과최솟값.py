@@ -14,3 +14,9 @@ def solution(s):
     answer = str(min(num)) + ' '+ str(max(num)) 
  
     return answer
+
+#### list.split(' ') 이 있었는데!
+def solution(s): 
+    num =s.split(" ") 
+    num = [int(i) for i in num]
+    return str(min(num)) + ' '+ str(max(num)) 
