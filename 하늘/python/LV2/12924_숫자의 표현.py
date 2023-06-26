@@ -3,6 +3,7 @@ def solution(n):
     answer = 1
     ## 앞에서부터 순차적으로 돌아볼까
     for start in range(1, (n//2)+1): 
+        sum=0
         for i in range(start,n):
             sum+=i
             if sum == n:
